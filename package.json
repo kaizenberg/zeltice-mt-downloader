@@ -34,11 +34,11 @@
   "homepage": "https://github.com/zeltice/zeltice-mt-downloader#readme",
   "dependencies": {
     "async": "0.2.x",
-    "underscore": "1.5.x"
+    "underscore": "^1.13.1"
   },
   "devDependencies": {
-    "istanbul": "0.1.x",
-    "mocha": "1.12.x",
+    "istanbul": "^0.4.5",
+    "mocha": "^9.0.0",
     "mockery": "1.4.x",
     "should": "1.2.x",
     "sinon": "^1.14.1"
